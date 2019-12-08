@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 27 18:23:11 2018
 
-@author: swathika.n
+@author: velmurugan.m
 """
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.metrics import accuracy_score
